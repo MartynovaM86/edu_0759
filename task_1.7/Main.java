@@ -7,10 +7,20 @@
 Пример вывода:
 250000 */
 
-
-
+import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
-        //Ваш код
+        System.out.println ("Введите размеры бассейна:");
+        Scanner scan = new Scanner(System.in);
+        System.out.println ("Длина:");
+        int a = scan.nextInt();
+        System.out.println ("Ширина:");
+        int b = scan.nextInt();
+        System.out.println ("Высота:");
+        int c = scan.nextInt();
+        int d = a*b*c;
+        int E = d*1000;
+        System.out.println ("Столько литров воды нужно, чтобы наполнить бассейн:");
+        System.out.println (E);
     }
 }

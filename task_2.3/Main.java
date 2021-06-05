@@ -15,7 +15,13 @@
 
 public class Main {
     public static void main(String[] args) {
-        //напишите тут ваш код
+        int n = 10;
+        for (int i =0; i<=n; i++) {
+            for (int j = i; j > 0; j--) {
+                System.out.print("8");
+            }
+            System.out.println();
+        }
+            }
+        }
 
-    }
-}

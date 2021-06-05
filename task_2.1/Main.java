@@ -11,9 +11,14 @@
 •	Текст в каждой строке должен быть уникален.
 •	Должны быть выведены все возможные комбинации. */
 
-public class Main {
+public class
+  Main {
     public static void main(String[] args) {
-        //напишите тут ваш код
-
+        System.out.println("МамаМылаРаму");
+        System.out.println("МамаРамуМыла");
+        System.out.println("РамуМамаМыла");
+        System.out.println("РамуМылаМама");
+        System.out.println("МылаМамаРаму");
+        System.out.println("МылаРамуМама");
     }
 }
