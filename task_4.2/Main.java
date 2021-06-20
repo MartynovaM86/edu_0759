@@ -10,15 +10,40 @@
 •	У класса должен быть сеттер для переменной age.
 •	У класса должен быть геттер для переменной age.
 */
-
-
 public class Main {
     public static void main(String[] args) {
+        Dog dog = new Dog ("Шарик", 5);
+        System.out.println(dog.getName());
+        System.out.println(dog.getAge());
+            }
+}
+
+class Dog {
+    String name;
+    int age;
+
+    Dog(String name) {
+        this.name = name;
+    }
+    String getName() {
+   return name;
+   }
+
+   void setName(String name) {
+   this.name = name;
+   }
+    Dog(int age) {
+       this.age = age;
+    }
+
+    int getAge() {
+    return age;
+    }
+    void setAge(int age) {
+    this.age = age;
+    }
+    public Dog(String name, int age) {
 
     }
 }
-
-public class Dog {
-    //напишите тут ваш код
-}
-
+//Так и должен в конце выводить null и 0, вместо заданных значений?

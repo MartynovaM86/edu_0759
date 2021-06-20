@@ -2,39 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fd522a4-54dc-4541-ad6c-a0ed3e9a1647" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../task_1.1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../task_1.1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../task_1.1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../task_1.1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../task_1.1/task_1.1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../task_1.3/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../task_1.3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../task_1.3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../task_1.3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../task_1.3/out/production/task_1.3/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../task_1.3/out/production/task_1.3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../task_1.3/out/production/task_1.3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../task_1.3/out/production/task_1.3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../task_1.3/out/production/task_1.3/task_1.3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../task_1.3/task_1.3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../task_2.4/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task_1.1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task_1.1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task_1.2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task_1.2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task_1.3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task_1.3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task_1.4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task_1.4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task_1.5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task_1.5/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task_1.6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task_1.6/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task_1.7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task_1.7/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task_2.1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task_2.1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task_2.10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task_2.10/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task_2.2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task_2.2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task_2.3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task_2.3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task_2.4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task_2.4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task_2.5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task_2.5/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task_2.6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task_2.6/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task_2.7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task_2.7/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task_2.8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task_2.8/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task_2.9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task_2.9/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +23,21 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../task_4.1" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="task_2.11" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

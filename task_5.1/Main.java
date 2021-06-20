@@ -17,5 +17,9 @@ public class Main {
         names.add("Георгий");
         names.add("Павел");
         names.add("Руслан");
+        System.out.println(names);
+        names.remove(3);
+        names.remove(4);
+        System.out.println(names);
     }
 }

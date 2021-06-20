@@ -22,7 +22,7 @@ import java.util.Scanner;
 */
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args, String family1, String family2, String family3) {
         Scanner scanner = new Scanner(System.in);
 
         List<String> list = new ArrayList<>();
@@ -32,14 +32,19 @@ public class Main {
                 break;
             }
 
-            list.add(family);
+            list.add(family1);
+            list.add(family2);
+            list.add(family3);
+            System.out.println(family);
+
+
         }
 
         // Read the house number
-        int houseNumber = scanner.nextInt();
+        int City = scanner.nextInt();
 
-        if (0 <= houseNumber && houseNumber < list.size()) {
-            String familyName = list.get(houseNumber);
+        if (0 <= City && City < list.size()) {
+            String familyName = list.get(City);
             System.out.println(familyName);
         }
     }

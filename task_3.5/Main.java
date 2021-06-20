@@ -5,6 +5,11 @@
 
 public class Main {
     public static void main(String[] args) {
-        int num[] = {4,2,6,2,65}
+        int num[] = {4, 2, 6, 2, 65};
+        for (int i=0; i<5; i++) {
+            System.out.print(num[i] + " ");
+        }
     }
 }
+
+// Как это сделать с рекурсией не знаю, всю голову уже сломала.

@@ -14,6 +14,9 @@
 public class
   Main {
     public static void main(String[] args) {
+        String word1 = "Мама";
+        String word2 = "Мыла";
+        String word3 = "Раму";
         System.out.println("МамаМылаРаму");
         System.out.println("МамаРамуМыла");
         System.out.println("РамуМамаМыла");

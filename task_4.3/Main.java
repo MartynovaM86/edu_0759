@@ -15,7 +15,8 @@
 
 public class Main {
     public static void main(String[] args) {
-
+     Cat cat1 = new Cat (5, 5,20);
+     Cat cat2 = new Cat (3,6,25);
     }
 }
 
@@ -24,10 +25,10 @@ class Cat {
     public int weight;
     public int strength;
 
-    public Cat() {
+    public Cat(int age, int weight, int strength) {
     }
 
     public boolean fight(Cat anotherCat) {
-        //напишите тут ваш код
+        
     }
 }

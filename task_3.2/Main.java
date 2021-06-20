@@ -14,15 +14,29 @@
 */
 
 public class Main {
-    public static int min(int a, int b, int c, int d) {
-        //напишите тут ваш код
+    public static int min (int a, int b, int c, int d) {
+        int m1= min (a,b);
+        int m2;
+        if (c < d)
+          m2=c;
+        else
+            m2=d;
+        if (m1 < m2)
+            return m1;
+        else
+            return m2;
 
+}
+
+    public static int min (int a, int b) {
+        int m1;
+        if (a < b) {
+            return a;
+        } else{
+            return b;
     }
+       }
 
-    public static int min(int a, int b) {
-        //напишите тут ваш код
-
-    }
 
     public static void main(String[] args) throws Exception {
         System.out.println(min(-20, -10));
